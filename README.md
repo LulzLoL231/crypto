@@ -1,6 +1,7 @@
 # LulzCrypto
 
 LulzCrypto – cleartext + JWT + lulzcode = simple way for some encrypting.
+
 Encrypt cleartext by JWT, encode it with lulzcode, and upload it to pastebin.
 
 ## How to install?
