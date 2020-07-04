@@ -1,9 +1,15 @@
 # LulzCrypto
+
 LulzCrypto – cleartext + JWT + lulzcode = simple way for some encrypting.
 Encrypt cleartext by JWT, encode it with lulzcode, and upload it to pastebin.
 
-## Dependence?
-Python =<3.7
+## How to install
+
+`pip install lulzcrypto`
+
+## Dependence
+
+Python >=3.7
 
 JWT
 
@@ -13,9 +19,10 @@ lulzcode
 
 pastebin API key (optional)
 
-## How to use?
+## How to use
+
 ```python
-from crypto import Crypto
+from lulzcrypto import Crypto
 
 enc = Crypto('<SUPER_SECRET_PASSWORD>', '<PASTEBIN_API_KEY>')
 
