@@ -5,7 +5,9 @@ Encrypt cleartext by JWT, encode it with lulzcode, and upload it to pastebin.
 
 ## How to install
 
-`pip install lulzcrypto`
+```sh
+pip install lulzcrypto
+```
 
 ## Dependence
 
