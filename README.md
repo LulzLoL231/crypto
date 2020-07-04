@@ -16,4 +16,5 @@ enc = Crypto('<SUPER_SECRET_PASSWORD>', '<PASTEBIN_API_KEY>')
 
 enc.encrypt('Hello World!')  # Output: https://pastebin.com/irLbQN3g
 
-enc.decrypt('irLbQN3g')  # Output: Hello World!```
+enc.decrypt('irLbQN3g')  # Output: Hello World!
+```
