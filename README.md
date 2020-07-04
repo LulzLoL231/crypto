@@ -3,9 +3,13 @@ Encrypt cleartext by JWT, encode it with lulzcode, and upload it to pastebin.
 
 ## Dependence?
 Python =<3.7
+
 JWT
+
 requests
+
 lulzcode
+
 pastebin API key (optional)
 
 ## How to use?
